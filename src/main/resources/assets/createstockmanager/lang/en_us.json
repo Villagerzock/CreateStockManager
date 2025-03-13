@@ -1,0 +1,5 @@
+{
+  "itemGroup.createstockmanager": "Example Mod Tab",
+  "block.createstockmanager.example_block": "Example Block",
+  "item.createstockmanager.example_item": "Example Item"
+}
